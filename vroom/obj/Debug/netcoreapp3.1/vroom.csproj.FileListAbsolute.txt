@@ -1,0 +1,799 @@
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.StaticWebAssets.xml
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.exe
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.deps.json
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.runtimeconfig.json
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.runtimeconfig.dev.json
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.pdb
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.Views.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.Views.pdb
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csprojAssemblyReference.cache
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.AssemblyInfoInputs.cache
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.AssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csproj.CoreCompileInputs.cache
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorAssemblyInfo.cache
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorAssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/staticwebassets/vroom.StaticWebAssets.Manifest.cache
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/staticwebassets/vroom.StaticWebAssets.xml
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/scopedcss/bundle/vroom.styles.css
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.TagHelpers.input.cache
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.TagHelpers.output.cache
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorCoreGenerate.cache
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorTargetAssemblyInfo.cache
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorTargetAssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.Views.pdb
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csproj.CopyComplete
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.pdb
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.genruntimeconfig.cache
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Bikes.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Create.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Edit.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.StaticWebAssets.xml
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.exe
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.deps.json
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.runtimeconfig.json
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.runtimeconfig.dev.json
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.pdb
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.Views.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.Views.pdb
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csprojAssemblyReference.cache
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.AssemblyInfoInputs.cache
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.AssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csproj.CoreCompileInputs.cache
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorAssemblyInfo.cache
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorAssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/staticwebassets/vroom.StaticWebAssets.Manifest.cache
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/staticwebassets/vroom.StaticWebAssets.xml
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/scopedcss/bundle/vroom.styles.css
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.TagHelpers.input.cache
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.TagHelpers.output.cache
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorCoreGenerate.cache
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Bikes.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Create.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Edit.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorTargetAssemblyInfo.cache
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorTargetAssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.Views.pdb
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csproj.CopyComplete
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.dll
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.pdb
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.genruntimeconfig.cache
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Book/Create.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Addtocart/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/AddItem.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Checkout/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project test/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Book/Edit.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.StaticWebAssets.xml
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.exe
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.deps.json
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.runtimeconfig.json
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.runtimeconfig.dev.json
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.pdb
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.Views.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.Views.pdb
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csprojAssemblyReference.cache
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.AssemblyInfoInputs.cache
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.AssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csproj.CoreCompileInputs.cache
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorAssemblyInfo.cache
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorAssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/staticwebassets/vroom.StaticWebAssets.Manifest.cache
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/staticwebassets/vroom.StaticWebAssets.xml
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/scopedcss/bundle/vroom.styles.css
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.TagHelpers.input.cache
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.TagHelpers.output.cache
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorCoreGenerate.cache
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Addtocart/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Book/Create.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Book/Edit.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Checkout/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/AddItem.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Bikes.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Create.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Edit.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorTargetAssemblyInfo.cache
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorTargetAssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.Views.pdb
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csproj.CopyComplete
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.dll
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.pdb
+C:/Users/JamesDuong/Desktop/project/1/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.genruntimeconfig.cache
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.StaticWebAssets.xml
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.exe
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.deps.json
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.runtimeconfig.json
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.runtimeconfig.dev.json
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.pdb
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.Views.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.Views.pdb
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csprojAssemblyReference.cache
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.AssemblyInfoInputs.cache
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.AssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csproj.CoreCompileInputs.cache
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorAssemblyInfo.cache
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorAssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/staticwebassets/vroom.StaticWebAssets.Manifest.cache
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/staticwebassets/vroom.StaticWebAssets.xml
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/scopedcss/bundle/vroom.styles.css
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.TagHelpers.input.cache
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.TagHelpers.output.cache
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorCoreGenerate.cache
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Addtocart/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Book/Create.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Book/Edit.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Checkout/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/AddItem.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Bikes.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Create.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Edit.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Index.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorTargetAssemblyInfo.cache
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorTargetAssemblyInfo.cs
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.Views.pdb
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csproj.CopyComplete
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.dll
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.pdb
+C:/Users/JamesDuong/Desktop/project/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.genruntimeconfig.cache
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.StaticWebAssets.xml
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.deps.json
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.runtimeconfig.json
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.runtimeconfig.dev.json
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.pdb
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.Views.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/vroom.Views.pdb
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csprojAssemblyReference.cache
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.AssemblyInfoInputs.cache
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.AssemblyInfo.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csproj.CoreCompileInputs.cache
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.MvcApplicationPartsAssemblyInfo.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.MvcApplicationPartsAssemblyInfo.cache
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorAssemblyInfo.cache
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorAssemblyInfo.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/staticwebassets/vroom.StaticWebAssets.Manifest.cache
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/staticwebassets/vroom.StaticWebAssets.xml
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/scopedcss/bundle/vroom.styles.css
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.TagHelpers.input.cache
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.TagHelpers.output.cache
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorCoreGenerate.cache
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Addtocart/Index.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Book/Create.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Book/Edit.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Book/Index.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Checkout/Index.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/AddItem.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Bikes.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Create.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Edit.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Make/Index.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorTargetAssemblyInfo.cache
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.RazorTargetAssemblyInfo.cs
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.Views.pdb
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.csproj.CopyComplete
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.dll
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.pdb
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/vroom.genruntimeconfig.cache
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/bin/Debug/netcoreapp3.1/aws-beanstalk-tools-defaults.json
+/Users/ngogiabaoloc/Downloads/Final Project/vroom/vroom/obj/Debug/netcoreapp3.1/Razor/Views/Home/AboutUs.cshtml.g.cs

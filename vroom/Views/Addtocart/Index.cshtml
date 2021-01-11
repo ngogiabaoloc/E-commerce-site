@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<vroom.Models.Book>
+
+@{
+    ViewData["Title"] = "Add To Cart Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@foreach (var item in Model)
+{
+    <li class="media">
+        @*<img class="featureimg" src="~/images/400254.jpg" alt="Generic placeholder image">*@
+        <img src="@Html.DisplayFor(m => item.ImagePath)" class="recommendimg" alt="Generic placeholder image" />
+        <div class="media_body">
+            <h5>@item.Title</h5>
+            <p>@item.Description</p>
+            <p>Price: $@item.Price</p>
+        </div>
+
+    </li>
+    <br>
+}
+
+<h2>
+    <a asp-controller="Checkout" asp-action="Index">CHECKOUT PAGE</a>
+</h2>
+

@@ -1,0 +1,88 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<vroom.Models.Book>
+@{
+    ViewData["Title"] = "Book Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+
+<form asp-action="Index" method="get">
+    <div>
+        <p>
+            Find Book: <input type="text" name="searchString" value="@ViewBag.CurrentFilter" />
+            <input type="submit" value="Search" class="btn btn-info" /> |
+            
+            <a asp-action="Index">Remove Filter</a>
+        </p>
+    </div>
+</form>
+<br />
+<br />
+
+<div class="row">
+    <div class="col-6">
+        <h2 class="text-info">Book Information</h2>
+    </div>
+    <div class="col-6 text-right">
+        <a class="btn btn-info" asp-action="Create"><i class="fas fa-motorcycle"></i> &nbsp; Add New Book</a>
+    </div>
+
+    <div class="col-12">
+        <table class="table table-striped border">
+            <tr class="table-info">
+                <th>
+                    @Html.DisplayNameFor(m => m.ImagePath)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(m => m.Title)
+                </th>
+                <th>@Html.DisplayNameFor(m => m.Description)</th>
+                <th>
+
+                    <a asp-action="Index" asp-route-sortOrder="@ViewBag.PriceSortParam">
+                        @Html.DisplayNameFor(m => m.Price)
+                    </a>
+                </th>
+            </tr>
+            
+            
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>
+                        <img src="@Html.DisplayFor(m => item.ImagePath)" width="100px" height="150px" />
+                        @*@Html.DisplayFor(m => item.ImagePath)*@
+                    </td>
+                    <td>
+                        @Html.DisplayFor(m => item.Title)
+                    </td>
+                    <td>
+                        @item.Description
+                    </td>
+                    <td>
+                        @*@Html.DisplayFor(m => item.Id)*@
+                        @item.Price
+                    </td>
+                    @*<partial name="_TableButtonPartials" model="item.Id" />*@
+
+                    <td class="text-right">
+                        <div>
+                            @*<a type="button" class="btn btn-primary" href="@Url.Action("Edit/"+item.Id)">Edit</a>*@
+                            <a type="button" class="btn btn-primary" href="@Url.Action("edit", new { id = item.Id })">Edit</a>
+                            <a type="button" class="btn btn-primary" href="@Url.Action("delete", new { id = item.Id })">Delete</a>
+
+                        </div>
+
+                    </td>
+                </tr>
+
+            }
+
+        </table>
+    </div>
+</div>

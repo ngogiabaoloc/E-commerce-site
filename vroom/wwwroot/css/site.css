@@ -1,0 +1,201 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+#recommendcontainer {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+#featurecontainer {
+  display: table;
+  width: 100%;
+  height: 50%;
+  overflow:hidden;
+}
+.recommend {
+  flex:1;
+  width:30%;
+}
+
+.recommendimg {
+  width: 200px;
+  height: 266px;
+}
+
+
+/*.card_body {
+  width: 300px;
+}*/
+
+nav {
+  padding: 10px 20px;
+  overflow: auto;
+}
+.card_title_structure{
+	height:80px
+}
+.card_title {
+	width: 250px;
+	overflow:hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 3; /* number of lines to show */
+	-webkit-box-orient: vertical;
+}
+.card_text_structure{
+	height:100px
+}
+
+.card_text {
+  width: 250px;
+  overflow:hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 18px;
+}
+
+.headline {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+#address {
+  padding-top:30px;
+  background-color: lightblue;
+  column-count: 2;
+  width: 80%;
+  margin: auto;
+}
+
+.bottom {
+  vertical-align: middle;
+  padding: 10px 10px;
+}
+
+
+.featureimg {
+  width: 90px;
+  height: 125px;
+  padding: 10px;
+}
+
+.media_body {
+  width: auto;
+  padding: 10px 0px;
+}
+
+
+#checkout_container {
+	margin: 10px auto;
+	width: 90%;
+	}
+#order_summary {
+	padding: 10px;
+	background-color:#fbeee4;
+	width:30%;
+	float:right;
+  }
+  .alert {
+    padding: 20px;
+    background-color:black; 
+    color: white;
+    margin-bottom: 15px;
+    opacity: 0.5;
+  }
+  
+  /* The close button */
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+    }
+  
+  /* When moving the mouse over the close button */
+  .closebtn:hover {
+    color: black;
+  }

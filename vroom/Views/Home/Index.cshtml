@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<vroom.Models.Book>
+
+<h2 class="headline">RECOMMENDED PRODUCTS</h2>
+<hr>
+
+<div id="recommendcontainer">
+
+    @{
+        int count = 0;
+        foreach (var item in Model)
+        {
+            <div class="recommend">
+                <img src="@item.ImagePath" class="recommendimg" alt="Generic placeholder image" />
+                
+				<div class="card_title_structure">
+					<h5 class="card_title">@item.Title</h5>
+				</div>
+				
+				<div class="card_text_structure">
+					<p class="card_text">@item.Description</p>
+				</div>
+                
+                <p>Price: $@item.Price</p>
+                <br>
+                <form asp-action="AddItem" method="POST">
+                    <input type="hidden" name="id" value="@item.Id">
+                    <button type="submit" class="btn btn-primary">Add to Cart</button>
+                </form>
+            </div>
+
+            count += 1;
+            if (count == 3)
+            {
+                break;
+            }
+        }
+    }
+
+
+
+</div>
+<hr>
+
+<h2 class="headline">FEATURED PRODUCTS</h2>
+<hr>
+
+<div id="featurecontainer">
+    @foreach (var item in Model)
+    {
+        <li class="media">
+            @*<img class="featureimg" src="~/images/400254.jpg" alt="Generic placeholder image">*@
+            <img src="@Html.DisplayFor(m => item.ImagePath)" class="featureimg" alt="Generic placeholder image" />
+            <div class="media_body">
+                <h5 class="">@Html.DisplayFor(m => item.Title)</h5>
+                <p>@item.Description</p>
+                <p>Price: $@item.Price</p>
+                <form asp-action="AddItem" method="POST">
+                    <input type="hidden" name="id" value="@item.Id">
+                    <button type="submit" class="btn btn-primary">Add to Cart</button>
+                </form>
+            </div>
+
+        </li>
+        <br>
+    }
+
+</div>
+<hr>
+
+@* TESTING ONLY *@
+@*@{
+        foreach (var item in Model)
+        {
+            <h5 class="card_title">@item.Title</h5>
+            <p class="card_text">@item.Description</p>
+            <p>@item.Price</p>
+            <form asp-action="AddItem" method="POST">
+                <input type="hidden" name="id" value="@item.Id">
+                <button type="submit">Add</button>
+            </form>
+            break;
+        }
+    }*@
+
+

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ngogiabaoloc/.dotnet/store/|arch|/|tfm|",
+      "/Users/ngogiabaoloc/.nuget/packages"
+    ]
+  }
+}
